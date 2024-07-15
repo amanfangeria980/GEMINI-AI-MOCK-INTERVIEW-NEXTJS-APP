@@ -56,7 +56,7 @@ const AddNewInterview = () => {
                     jobPosition: jobPosition,
                     jobDesc: jobDesc,
                     jobExperience: jobExperience,
-                    createdBy: user? .primaryEmailAddress?.emailAddress,
+                    createdBy: user?.primaryEmailAddress?.emailAddress,
                     createdAt: moment().format("DD-MM-yyyy"),
                 })
                 .returning({ mockId: MockInterview.mockId });
