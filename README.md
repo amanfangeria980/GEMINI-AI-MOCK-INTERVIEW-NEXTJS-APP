@@ -13,6 +13,7 @@ MockIt is an innovative application designed for practicing mock interviews usin
 -   **Frontend:** NextJS, ShadCN
 -   **Backend:** Gemini API
 -   **Database:** Postgres, Drizzle ORM
+-   **Authentication:** Clerk
 -   **Payment Integration:** Stripe
 -   **Camera:** react-webcam
 -   **Microphone:** react-hook-speech-to-text
