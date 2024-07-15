@@ -1,3 +1,26 @@
+## MockIt - AI INTERVIEW MOCKER
+
+MockIt is an innovative application designed for practicing mock interviews using AI technology.
+
+### Key Features
+
+-   **AI-Generated Questions:** Enter the job role, tech stack, and years of experience required. MockIt will generate interview questions tailored to your specifications.
+-   **Interactive Interview Sessions:** Use your camera and microphone to answer questions in real-time.
+-   **Feedback System:** Receive detailed feedback based on your answers to help you improve.
+
+### Technologies Used
+
+-   **Frontend:** NextJS, ShadCN
+-   **Backend:** Gemini API
+-   **Database:** Postgres, Drizzle ORM
+-   **Payment Integration:** Stripe
+-   **Camera:** react-webcam
+-   **Microphone:** react-hook-speech-to-text
+
+**Deployed on Vercel:** [https://gemini-ai-mock-interview-nextjs-app.vercel.app/](https://gemini-ai-mock-interview-nextjs-app.vercel.app/)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -24,8 +47,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
