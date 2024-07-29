@@ -129,7 +129,7 @@ const RecordAnswerSection = ({
                     </h2>
                 )}
             </Button>
-            <Button onClick={() => console.log(userAnswer)}>
+            <Button onClick={() => alert(`Answer is: ${userAnswer}`)}>
                 Show user answer
             </Button>
         </div>
