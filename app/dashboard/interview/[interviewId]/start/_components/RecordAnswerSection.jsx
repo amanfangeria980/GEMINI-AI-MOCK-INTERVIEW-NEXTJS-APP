@@ -46,7 +46,7 @@ const RecordAnswerSection = ({
         //     toast("Error while saving your answer, please record again.");
         //     return;
         // }
-    }, [userAnswer]);
+    }, [isRecording, userAnswer]);
 
     const startStopRecording = () => {
         if (isRecording) {
