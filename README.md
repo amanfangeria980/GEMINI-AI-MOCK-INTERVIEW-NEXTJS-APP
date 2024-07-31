@@ -1,6 +1,8 @@
 ## MockIt - AI INTERVIEW MOCKER
 
-MockIt is an innovative application designed for practicing mock interviews using AI technology.
+MockIt is an innovative application designed for practicing mock interviews using AI technology.\
+
+### Deployed on Vercel: https://gemini-ai-mock-interview-nextjs-app.vercel.app/
 
 ### Preview
 <img width="1920" alt="image" src="https://github.com/user-attachments/assets/eedb70d6-8b95-43b5-a8b5-9b7368099897">
