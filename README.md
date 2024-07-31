@@ -2,6 +2,15 @@
 
 MockIt is an innovative application designed for practicing mock interviews using AI technology.
 
+### Preview
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/eedb70d6-8b95-43b5-a8b5-9b7368099897">
+<img width="992" alt="image" src="https://github.com/user-attachments/assets/fd47bb4c-e83c-4c59-ab5e-ac1ac2b53601">
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/6a77f2a7-9ef5-4ba9-ba17-d9110ec53cba">
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/9df0c56c-90ff-401c-bff2-bdadfc570d98">
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/56ebc7c3-e61d-4868-b0ee-70e7c0515aad">
+<img width="1904" alt="image" src="https://github.com/user-attachments/assets/595e4daa-823d-4ecd-a136-1c94e848ff07">
+
+
 ### Key Features
 
 -   **AI-Generated Questions:** Enter the job role, tech stack, and years of experience required. MockIt will generate interview questions tailored to your specifications.
